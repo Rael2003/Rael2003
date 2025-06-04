@@ -8,6 +8,7 @@
 
 # 📊 Status do GitHub
 <div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rael2003&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Rael2003's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael2003&layout=compact&theme=dracula&hide_border=true" /></a>
   <a href="https://github.com/Rael2003">
     <img src="https://github-readme-stats.vercel.app/api?username=Rael2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael2003&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
