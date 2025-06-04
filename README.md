@@ -5,7 +5,6 @@
 
 🔭 Hoje eu estou trabalhando como Dev. Júnior<br>
 🌍 De São Paulo, SP - Brasil<br>
-😄 Pronomes: ele/dele
 
 # 📊 Status do GitHub
 <div>
