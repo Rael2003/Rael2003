@@ -7,12 +7,12 @@
 🌍 De São Paulo, SP - Brasil<br>
 
 # 📊 Status do GitHub
-<div>
+<!-- <div>
   <a href="https://github.com/Rael2003">
     <img src="https://github-readme-stats.vercel.app/api?username=Rael2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael2003&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
-</div>
+</div> -->
 
 # 🌐 Redes sociais
 <a href = "mailto:rsouza2123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
